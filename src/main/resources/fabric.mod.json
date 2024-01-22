@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "tech_decorators",
+  "version": "0.17",
+  "name": "科技装饰商",
+  "description": "纯粹就是作者为了自己需要而做的...  免责声明:Any trademarks, service marks, collective marks and design rights that are mentioned, used or referenced in the tech_decorators Module are the property of their respective owners. Unless otherwise stated, tech_decorators mods are not licensed by the rights holders mentioned above",
+  "authors": [
+    "acyz"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/tech-decorators-fabric",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "icon": "assets/tech_decorators/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "name.tech_decorators.TechDecoratorsMod"
+    ],
+    "client": [
+      "name.tech_decorators.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "tech_decorators.mixins.json"
+  ]
+}
