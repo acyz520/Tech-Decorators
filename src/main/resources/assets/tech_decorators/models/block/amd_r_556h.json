@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/xr55600h",
+  "textures": {
+    "all": "tech_decorators:block/amdr5",
+    "particle": "tech_decorators:block/amdr5",
+    "0": "tech_decorators:block/xr55600h"
+  },
+  "render_type": "solid"
+}

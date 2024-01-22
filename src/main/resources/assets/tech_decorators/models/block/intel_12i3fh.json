@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/qx12100fh",
+  "textures": {
+    "all": "tech_decorators:block/i3h12x",
+    "particle": "tech_decorators:block/i3h12x",
+    "0": "tech_decorators:block/i312fhqx"
+  },
+  "render_type": "solid"
+}

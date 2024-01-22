@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/rc20",
+  "textures": {
+    "all": "tech_decorators:block/rc20",
+    "particle": "tech_decorators:block/rc20",
+    "0": "tech_decorators:block/rc20yp"
+  },
+  "render_type": "solid"
+}

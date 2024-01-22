@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/msxsx",
+  "textures": {
+    "all": "tech_decorators:block/xsx",
+    "particle": "tech_decorators:block/xsx",
+    "0": "tech_decorators:block/msxsx"
+  },
+  "render_type": "solid"
+}

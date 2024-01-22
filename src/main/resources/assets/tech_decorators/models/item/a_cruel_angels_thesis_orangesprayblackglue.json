@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tech_decorators:item/a_cruel_angels_thesis"
+  }
+}

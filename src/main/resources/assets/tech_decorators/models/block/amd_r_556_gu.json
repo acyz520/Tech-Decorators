@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/xr55600gu",
+  "textures": {
+    "all": "tech_decorators:block/au",
+    "particle": "tech_decorators:block/au",
+    "0": "tech_decorators:block/r556gqx"
+  },
+  "render_type": "solid"
+}

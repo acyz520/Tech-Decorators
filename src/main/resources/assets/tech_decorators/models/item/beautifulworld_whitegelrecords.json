@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tech_decorators:item/beautiful_world_asuka_white_glue"
+  }
+}

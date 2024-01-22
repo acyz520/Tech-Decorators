@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/xr34100u",
+  "textures": {
+    "all": "tech_decorators:block/amdr34100u",
+    "particle": "tech_decorators:block/amdr34100u",
+    "0": "tech_decorators:block/r341qx"
+  },
+  "render_type": "solid"
+}

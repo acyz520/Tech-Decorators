@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/dm_spz_x",
+  "textures": {
+    "all": "tech_decorators:block/dmspz",
+    "particle": "tech_decorators:block/dmspz",
+    "0": "tech_decorators:block/dm_spz_x"
+  },
+  "render_type": "solid"
+}

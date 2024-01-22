@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/tech_decorators_medal",
+  "textures": {
+    "all": "tech_decorators:block/medal",
+    "particle": "tech_decorators:block/medal",
+    "0": "tech_decorators:block/tech_decorators_medal"
+  },
+  "render_type": "solid"
+}

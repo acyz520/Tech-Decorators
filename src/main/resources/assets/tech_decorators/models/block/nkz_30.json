@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/nk_z30",
+  "textures": {
+    "all": "tech_decorators:block/camera",
+    "particle": "tech_decorators:block/camera",
+    "0": "tech_decorators:block/nk_z30"
+  },
+  "render_type": "solid"
+}

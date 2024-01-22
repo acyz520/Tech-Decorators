@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/x12100fu",
+  "textures": {
+    "all": "tech_decorators:block/intel12100fu",
+    "particle": "tech_decorators:block/intel12100fu",
+    "0": "tech_decorators:block/i312x"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "tech_decorators:custom/ls_3a6000",
+  "textures": {
+    "all": "tech_decorators:block/ls",
+    "particle": "tech_decorators:block/ls",
+    "0": "tech_decorators:block/lx_3a6000"
+  },
+  "render_type": "solid"
+}
