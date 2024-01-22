@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tech_decorators_medal"
+      },
+      "name": "default"
+    }
+  }
+}

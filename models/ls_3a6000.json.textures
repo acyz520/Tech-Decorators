@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lx_3a6000"
+      },
+      "name": "default"
+    }
+  }
+}

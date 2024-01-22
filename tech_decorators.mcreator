@@ -1,0 +1,621 @@
+{
+  "mod_elements": [
+    {
+      "name": "Inteltoothpaste",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "inteltoothpaste",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/item/InteltoothpasteItem.java",
+          "src/main/resources/assets/tech_decorators/models/item/inteltoothpaste.json"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i3fh",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i3fh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i3fh.json",
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i3fh.json",
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i3fh.json",
+          "src/main/java/name/tech_decorators/block/Intel12i3fhBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i5fh",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i5fh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i5fh.json",
+          "src/main/java/name/tech_decorators/block/Intel12i5fhBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i5fh.json",
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i5fh.json"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i7fh",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i7fh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i7fh.json",
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i7fh.json",
+          "src/main/java/name/tech_decorators/block/Intel12i7fhBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i7fh.json"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i9fh",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i_9fh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i_9fh.json",
+          "src/main/java/name/tech_decorators/block/Intel12i9fhBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i_9fh.json",
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i_9fh.json"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i5fu",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i_5fu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i_5fu.json",
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i_5fu.json",
+          "src/main/java/name/tech_decorators/block/Intel12i5fuBlock.java",
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i_5fu.json"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i3fu",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i_3fu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i_3fu.json",
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i_3fu.json",
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i_3fu.json",
+          "src/main/java/name/tech_decorators/block/Intel12i3fuBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i7fu",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i_7fu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i_7fu.json",
+          "src/main/java/name/tech_decorators/block/Intel12i7fuBlock.java",
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i_7fu.json",
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i_7fu.json"
+        ]
+      }
+    },
+    {
+      "name": "Intel12i9fu",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "intel_12i_9fu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/intel_12i_9fu.json",
+          "src/main/java/name/tech_decorators/block/Intel12i9fuBlock.java",
+          "src/main/resources/assets/tech_decorators/blockstates/intel_12i_9fu.json",
+          "src/main/resources/assets/tech_decorators/models/item/intel_12i_9fu.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR341h",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_341h",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/block/AmdR341hBlock.java",
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_341h.json",
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_341h.json",
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_341h.json"
+        ]
+      }
+    },
+    {
+      "name": "KioxiaRC20",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kioxia_rc_20",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/blockstates/kioxia_rc_20.json",
+          "src/main/java/name/tech_decorators/block/KioxiaRC20Block.java",
+          "src/main/resources/assets/tech_decorators/models/block/kioxia_rc_20.json",
+          "src/main/resources/assets/tech_decorators/models/item/kioxia_rc_20.json"
+        ]
+      }
+    },
+    {
+      "name": "TOPMOREspz",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "topmor_espz",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/block/TOPMOREspzBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/topmor_espz.json",
+          "src/main/resources/assets/tech_decorators/models/block/topmor_espz.json",
+          "src/main/resources/assets/tech_decorators/blockstates/topmor_espz.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR341u",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_341u",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/block/AmdR341uBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_341u.json",
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_341u.json",
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_341u.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR555h",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_555h",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_555h.json",
+          "src/main/java/name/tech_decorators/block/AmdR555hBlock.java",
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_555h.json",
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_555h.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR556h",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_556h",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_556h.json",
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_556h.json",
+          "src/main/java/name/tech_decorators/block/AmdR556hBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_556h.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR556Gh",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_556_gh",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_556_gh.json",
+          "src/main/java/name/tech_decorators/block/AmdR556GhBlock.java",
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_556_gh.json",
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_556_gh.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR555u",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_555u",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_555u.json",
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_555u.json",
+          "src/main/java/name/tech_decorators/block/AmdR555uBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_555u.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR556u",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_556u",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/block/AmdR556uBlock.java",
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_556u.json",
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_556u.json",
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_556u.json"
+        ]
+      }
+    },
+    {
+      "name": "AmdR556Gu",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amd_r_556_gu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/amd_r_556_gu.json",
+          "src/main/resources/assets/tech_decorators/models/item/amd_r_556_gu.json",
+          "src/main/resources/assets/tech_decorators/blockstates/amd_r_556_gu.json",
+          "src/main/java/name/tech_decorators/block/AmdR556GuBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "MSXSS",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "msxss",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/block/MSXSSBlock.java",
+          "src/main/resources/assets/tech_decorators/blockstates/msxss.json",
+          "src/main/resources/assets/tech_decorators/models/item/msxss.json",
+          "src/main/resources/assets/tech_decorators/models/block/msxss.json"
+        ]
+      }
+    },
+    {
+      "name": "MSXSSTB",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "msxsstb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/msxsstb.json",
+          "src/main/resources/assets/tech_decorators/blockstates/msxsstb.json",
+          "src/main/java/name/tech_decorators/block/MSXSSTBBlock.java",
+          "src/main/resources/assets/tech_decorators/models/block/msxsstb.json"
+        ]
+      }
+    },
+    {
+      "name": "TechdecoratorstabGameconsoles",
+      "type": "tab",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "techdecoratorstab_gameconsoles",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Techdecoratorstabprocessor",
+      "type": "tab",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "techdecoratorstabprocessor",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Nkz30",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nkz_30",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/blockstates/nkz_30.json",
+          "src/main/resources/assets/tech_decorators/models/block/nkz_30.json",
+          "src/main/resources/assets/tech_decorators/models/item/nkz_30.json",
+          "src/main/java/name/tech_decorators/block/Nkz30Block.java"
+        ]
+      }
+    },
+    {
+      "name": "LS3A6000",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ls_3_a_6000",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/ls_3_a_6000.json",
+          "src/main/resources/assets/tech_decorators/blockstates/ls_3_a_6000.json",
+          "src/main/resources/assets/tech_decorators/models/block/ls_3_a_6000.json",
+          "src/main/java/name/tech_decorators/block/LS3A6000Block.java"
+        ]
+      }
+    },
+    {
+      "name": "BeautifulWorldAsukaWhiteglue",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "beautifulworld_whitegelrecords",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/beautifulworld_whitegelrecords.json",
+          "src/main/java/name/tech_decorators/item/BeautifulWorldAsukaWhiteglueItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TechdecoratorstabVinyl",
+      "type": "tab",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "techdecoratorstab_vinyl",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Onelastkissbluegelrecords",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "onelastkiss_bluegelrecords",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/item/onelastkiss_bluegelrecords.json",
+          "src/main/java/name/tech_decorators/item/OnelastkissbluegelrecordsItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ACruelAngelsThesisOrangesprayblackglue",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_cruel_angels_thesis_orangesprayblackglue",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/item/ACruelAngelsThesisOrangesprayblackglueItem.java",
+          "src/main/resources/assets/tech_decorators/models/item/a_cruel_angels_thesis_orangesprayblackglue.json"
+        ]
+      }
+    },
+    {
+      "name": "TechdecoratorsMedal",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "techdecorators_medal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/tech_decorators/models/block/techdecorators_medal.json",
+          "src/main/resources/assets/tech_decorators/models/item/techdecorators_medal.json",
+          "src/main/resources/assets/tech_decorators/blockstates/techdecorators_medal.json",
+          "src/main/java/name/tech_decorators/block/TechdecoratorsMedalBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "MSXSX",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "msxsx",
+      "metadata": {
+        "files": [
+          "src/main/java/name/tech_decorators/block/MSXSXBlock.java",
+          "src/main/resources/assets/tech_decorators/models/item/msxsx.json",
+          "src/main/resources/assets/tech_decorators/blockstates/msxsx.json",
+          "src/main/resources/assets/tech_decorators/models/block/msxsx.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "intel_toothpaste_audio_frequency",
+      "files": [
+        "intelygyp"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "beautiful_world",
+      "files": [
+        "beautiful_world"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "one_last_kiss",
+      "files": [
+        "one_last_kiss"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "a_cruel_angels_thesis",
+      "files": [
+        "a-cruel-angel_s-thesis"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.tech_decorators.intel_12i_9fh": "Intel® Core ™ i9-12900F boxed",
+      "item.tech_decorators.beautifulworld_whitegelrecords.desc": "Beautiful World",
+      "block.tech_decorators.amd_r_556_gu": "AMD Ryzen™ 5 5600G processor",
+      "item.tech_decorators.onelastkiss_bluegelrecords": "Blue gel records",
+      "item.tech_decorators.onelastkiss_bluegelrecords.desc": "One Last Kiss",
+      "block.tech_decorators.amd_r_341h": "AMD Ryzen ™ 3 4100 Box",
+      "item_group.tech_decorators.techdecoratorstab_vinyl": "Techdecoratorstab Vinyl",
+      "block.tech_decorators.amd_r_555h": "AMD Ryzen™ 5 5500 Box",
+      "item.tech_decorators.a_cruel_angels_thesis_orangesprayblackglue.desc": "A Cruel Angel\u0027s Thesis",
+      "item.tech_decorators.a_cruel_angels_thesis_orangesprayblackglue": "Orange spray vinyl record",
+      "item.tech_decorators.inteltoothpaste": "Intel toothpaste",
+      "block.tech_decorators.msxsstb": "Microsof Xbox Series S 1TB",
+      "subtitles.beautiful_world": "",
+      "block.tech_decorators.intel_12i_7fu": "Intel® Core ™ i7-12700F processor",
+      "block.tech_decorators.amd_r_556_gh": "AMD Ryzen™ 5 5600G Box",
+      "block.tech_decorators.intel_12i_9fu": "Intel® Core ™ i9-12900F processor",
+      "block.tech_decorators.msxsx": "Microsoft Xbox Series X",
+      "block.tech_decorators.ls_3_a_6000": "Loongson 3A6000",
+      "subtitles.one_last_kiss": "",
+      "block.tech_decorators.intel_12i_3fu": "Intel® Core ™ i3-12100F processor",
+      "block.tech_decorators.msxss": "Microsoft Xbox Series S ",
+      "block.tech_decorators.intel_12i_5fu": "Intel® Core ™ i5-12400F processor",
+      "block.tech_decorators.nkz_30": "Nikon Z 30",
+      "block.tech_decorators.amd_r_556u": "AMD Ryzen™ 5 5600 processor",
+      "block.tech_decorators.amd_r_556h": "AMD Ryzen™ 5 5600 Box",
+      "block.tech_decorators.topmor_espz": "TOPMORE Aquarius SSD",
+      "item_group.tech_decorators.techdecoratorstabprocessor": "techdecorators miscellaneous",
+      "block.tech_decorators.techdecorators_medal": "tech_decorators monument",
+      "subtitles.a_cruel_angels_thesis": "",
+      "item_group.tech_decorators.techdecoratorstab_gameconsoles": "Techdecoratorstab Gameconsoles",
+      "block.tech_decorators.intel_12i3fh": "Intel® Core ™ i3-12100F boxed",
+      "block.tech_decorators.kioxia_rc_20": "Kioxia RC20 SSD",
+      "block.tech_decorators.intel_12i5fh": "Intel® Core ™ i5-12400F boxed",
+      "block.tech_decorators.intel_12i7fh": "Intel® Core ™ i7-12700F boxed",
+      "block.tech_decorators.amd_r_341u": "AMD Ryzen™ 3 4100 processor",
+      "block.tech_decorators.amd_r_555u": "AMD Ryzen™ 5 5500 processor",
+      "item.tech_decorators.inteltoothpaste.desc": "Lamp! Wait for the light, wait for the light!",
+      "subtitles.intel_toothpaste_audio_frequency": "",
+      "item.tech_decorators.beautifulworld_whitegelrecords": "White gel records"
+    },
+    "zh_cn": {
+      "block.tech_decorators.intel_12i_9fh": "英特尔® 酷睿™ i9-12900F盒装",
+      "item.tech_decorators.beautifulworld_whitegelrecords.desc": "美丽世界",
+      "block.tech_decorators.amd_r_556_gu": "AMD Ryzen™ 5 5600G 处理器",
+      "item.tech_decorators.onelastkiss_bluegelrecords": "蓝胶唱片",
+      "item.tech_decorators.onelastkiss_bluegelrecords.desc": "最后一吻",
+      "block.tech_decorators.amd_r_341h": "AMD 锐龙™ 3 4100 盒装",
+      "item_group.tech_decorators.techdecoratorstab_vinyl": "科技装饰商 唱片",
+      "block.tech_decorators.amd_r_555h": "AMD Ryzen™ 5 5500 盒装",
+      "item.tech_decorators.a_cruel_angels_thesis_orangesprayblackglue.desc": "残酷天使的行动纲领",
+      "item.tech_decorators.a_cruel_angels_thesis_orangesprayblackglue": "橙喷黑胶唱片",
+      "item.tech_decorators.inteltoothpaste": "英特尔牙膏",
+      "block.tech_decorators.msxsstb": "微软 Xbox Series S 1TB 主机",
+      "subtitles.beautiful_world": "",
+      "block.tech_decorators.intel_12i_7fu": "英特尔® 酷睿™ i7-12700F 处理器",
+      "block.tech_decorators.intel_12i_9fu": "英特尔® 酷睿™ i9-12900F 处理器",
+      "block.tech_decorators.amd_r_556_gh": "AMD Ryzen™ 5 5600G 盒装",
+      "block.tech_decorators.msxsx": "微软 Xbox Series X 主机",
+      "block.tech_decorators.ls_3_a_6000": "龙芯3A6000",
+      "subtitles.one_last_kiss": "",
+      "block.tech_decorators.intel_12i_3fu": "英特尔® 酷睿™ i3-12100F 处理器",
+      "block.tech_decorators.msxss": "微软 Xbox Series S 主机",
+      "block.tech_decorators.intel_12i_5fu": "英特尔® 酷睿™ i5-12400F 处理器",
+      "block.tech_decorators.nkz_30": "尼康 Z 30",
+      "block.tech_decorators.amd_r_556u": "AMD Ryzen™ 5 5600 处理器",
+      "block.tech_decorators.amd_r_556h": "AMD Ryzen™ 5 5600 盒装",
+      "block.tech_decorators.topmor_espz": "达墨水瓶座 固态硬盘",
+      "item_group.tech_decorators.techdecoratorstabprocessor": "科技装饰商 杂项",
+      "block.tech_decorators.techdecorators_medal": "科技装饰商 游玩纪念牌",
+      "subtitles.a_cruel_angels_thesis": "",
+      "item_group.tech_decorators.techdecoratorstab_gameconsoles": "科技装饰商 游戏主机",
+      "block.tech_decorators.intel_12i3fh": "英特尔® 酷睿™ i3-12100F盒装",
+      "block.tech_decorators.kioxia_rc_20": "铠侠RC20 固态硬盘",
+      "block.tech_decorators.intel_12i5fh": "英特尔® 酷睿™ i5-12400F盒装",
+      "block.tech_decorators.intel_12i7fh": "英特尔® 酷睿™ i7-12700F盒装",
+      "block.tech_decorators.amd_r_341u": "AMD 锐龙 3 4100 处理器",
+      "block.tech_decorators.amd_r_555u": "AMD Ryzen™ 5 5500 处理器",
+      "item.tech_decorators.inteltoothpaste.desc": "灯！等灯等灯！",
+      "subtitles.intel_toothpaste_audio_frequency": "",
+      "item.tech_decorators.beautifulworld_whitegelrecords": "白胶唱片"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tech_decorators",
+    "modName": "科技装饰商",
+    "version": "0.17",
+    "description": "纯粹就是作者为了自己需要而做的...  免责声明:本模组使用 Academic Free License v.3 作为许可协议",
+    "author": "acyz",
+    "websiteURL": "https://modrinth.com/mod/tech-decorators-fabric",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "head-mounted_cameras",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "Love comes from acyz",
+    "modElementsPackage": "name.tech_decorators",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}

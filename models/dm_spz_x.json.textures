@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dm_spz_x"
+      },
+      "name": "default"
+    }
+  }
+}
