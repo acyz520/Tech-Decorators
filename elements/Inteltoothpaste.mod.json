@@ -1,0 +1,19 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Intel toothpaste",
+    "texture": "intelyg",
+    "description": "Lamp! Wait for the light, wait for the light!",
+    "creativeTab": {
+      "value": "CUSTOM:TechdecoratorstabVinyl"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:intel_toothpaste_audio_frequency"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Blue gel records",
+    "texture": "one_last_kiss",
+    "description": "One Last Kiss",
+    "creativeTab": {
+      "value": "CUSTOM:TechdecoratorstabVinyl"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:one_last_kiss"
+    },
+    "lengthInTicks": 4908,
+    "analogOutput": 0
+  }
+}

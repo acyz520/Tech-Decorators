@@ -1,0 +1,19 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "White gel records",
+    "texture": "beautiful_world_asuka_white_glue",
+    "description": "Beautiful World",
+    "creativeTab": {
+      "value": "CUSTOM:TechdecoratorstabVinyl"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:beautiful_world"
+    },
+    "lengthInTicks": 6168,
+    "analogOutput": 0
+  }
+}

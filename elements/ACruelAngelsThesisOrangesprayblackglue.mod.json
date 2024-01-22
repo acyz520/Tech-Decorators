@@ -1,0 +1,19 @@
+{
+  "_fv": 47,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Orange spray vinyl record",
+    "texture": "a_cruel_angels_thesis",
+    "description": "A Cruel Angel's Thesis",
+    "creativeTab": {
+      "value": "CUSTOM:TechdecoratorstabVinyl"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:a_cruel_angels_thesis"
+    },
+    "lengthInTicks": 4860,
+    "analogOutput": 0
+  }
+}
