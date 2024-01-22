@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tech_decorators:block/msxsstb"
+    },
+    "facing=east": {
+      "model": "tech_decorators:block/msxsstb",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tech_decorators:block/msxsstb",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tech_decorators:block/msxsstb",
+      "y": 270
+    }
+  }
+}

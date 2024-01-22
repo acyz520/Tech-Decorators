@@ -1,0 +1,38 @@
+{
+  "intel_toothpaste_audio_frequency": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tech_decorators:intelygyp",
+        "stream": true
+      }
+    ]
+  },
+  "beautiful_world": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tech_decorators:beautiful_world",
+        "stream": true
+      }
+    ]
+  },
+  "one_last_kiss": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tech_decorators:one_last_kiss",
+        "stream": true
+      }
+    ]
+  },
+  "a_cruel_angels_thesis": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "tech_decorators:a-cruel-angel_s-thesis",
+        "stream": true
+      }
+    ]
+  }
+}

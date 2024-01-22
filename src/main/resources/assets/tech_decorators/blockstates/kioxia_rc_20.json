@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tech_decorators:block/kioxia_rc_20"
+    },
+    "facing=east": {
+      "model": "tech_decorators:block/kioxia_rc_20",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tech_decorators:block/kioxia_rc_20",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tech_decorators:block/kioxia_rc_20",
+      "y": 270
+    }
+  }
+}

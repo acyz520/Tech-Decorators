@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tech_decorators:block/amd_r_556u"
+    },
+    "facing=east": {
+      "model": "tech_decorators:block/amd_r_556u",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tech_decorators:block/amd_r_556u",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tech_decorators:block/amd_r_556u",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tech_decorators:block/nkz_30"
+    },
+    "facing=east": {
+      "model": "tech_decorators:block/nkz_30",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tech_decorators:block/nkz_30",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tech_decorators:block/nkz_30",
+      "y": 270
+    }
+  }
+}

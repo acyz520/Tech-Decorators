@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tech_decorators:block/intel_12i_9fh"
+    },
+    "facing=east": {
+      "model": "tech_decorators:block/intel_12i_9fh",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tech_decorators:block/intel_12i_9fh",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tech_decorators:block/intel_12i_9fh",
+      "y": 270
+    }
+  }
+}
